@@ -1,0 +1,9 @@
+{
+  "label": "Redirection",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "
+    Redirection integration involves a redirection step to a separate website. Consider this integration type if you have a unique use case or technical barrier, or if you want to make minimal changes to your site code. Otherwise we recommend standard merchant page integration for a seamless customer experience."
+  }
+}
